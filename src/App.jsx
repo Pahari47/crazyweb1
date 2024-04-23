@@ -6,6 +6,7 @@ import About from './componenets/About'
 import Eyes from './componenets/Eyes'
 import Featured from './componenets/Featured'
 import Cards from './componenets/Cards'
+import Footer from './componenets/Footer'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Eyes />
       <Featured />
       <Cards />
+      <Footer />
     </div>
   )
 }
